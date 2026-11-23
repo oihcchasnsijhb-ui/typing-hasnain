@@ -14,7 +14,7 @@ import {
   Timer,
   Trophy,
   Zap,
-import { getRankTitle, xpRequiredForLevel } from '../data/nodes';
+import { getRankTitle, xpRequiredForLevel } from "../data/modes";
 import { useApp } from '../context/AppContext';
 import type { GameModeId } from '../types/game';
 import type { AppRoute } from './Header';
