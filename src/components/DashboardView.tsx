@@ -14,8 +14,7 @@ import {
   Timer,
   Trophy,
   Zap,
-} from 'lucide-react';
-import { getRankTitle, xpRequiredForLevel } from '../data/modes';
+import { getRankTitle, xpRequiredForLevel } from '../data/nodes';
 import { useApp } from '../context/AppContext';
 import type { GameModeId } from '../types/game';
 import type { AppRoute } from './Header';
