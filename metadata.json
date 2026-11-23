@@ -1,0 +1,6 @@
+{
+  "name": "Typing Name",
+  "description": "Learn, practice, and master touch typing across desktop and mobile with structured courses, timed speed tests, daily challenges, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
